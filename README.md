@@ -93,6 +93,10 @@
          - Contraseña: admin12345
 
 6. **Ejecutar la Aplicación:**
+     - **Instalar dependencias:**
+         ```bash
+         npm run install
+         ```
 
      - **Compilar Activos Frontend:**
 
